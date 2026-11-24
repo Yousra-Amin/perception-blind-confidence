@@ -1,0 +1,6 @@
+score,ECE,AUROC,AURC
+seq_prob,0.07,0.854,0.045
+min_prob,0.042,0.857,0.045
+mean_prob,0.061,0.871,0.041
+agreement,0.106,0.767,0.075
+verbal,0.088,0.612,0.128
