@@ -1,0 +1,10 @@
+torch
+transformers>=4.45
+accelerate
+bitsandbytes
+datasets
+scikit-learn
+pandas
+matplotlib
+numpy
+pillow
